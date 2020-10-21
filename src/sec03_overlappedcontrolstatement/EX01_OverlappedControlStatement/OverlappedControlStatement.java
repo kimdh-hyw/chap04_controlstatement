@@ -1,6 +1,9 @@
 package sec03_overlappedcontrolstatement.EX01_OverlappedControlStatement;
 
+/*제어문의 중복*/
+
 public class OverlappedControlStatement {
+
 	public static void main(String[] args) {
 		
 		//#1. if-if 중복
@@ -43,7 +46,9 @@ public class OverlappedControlStatement {
 				}
 			}
 		}
+
 	}
+
 }
 
 

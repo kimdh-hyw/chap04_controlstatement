@@ -1,6 +1,9 @@
 package sec01_selelctcontrolstatement.EX01_IfControlStatement;
 
+/*세 가지 TYPE의 if 제어문*/
+
 public class IfControlStatement {
+	
 	public static void main(String[] args) {
 		
 		//#1. Type1 : if
@@ -75,7 +78,9 @@ public class IfControlStatement {
 		else {
 			System.out.println("F학점"); 
 		}
+		
 	}
+	
 }
 
 

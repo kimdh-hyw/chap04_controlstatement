@@ -1,6 +1,9 @@
 package sec02_loopcontrolstatement.EX03_DoWhileControlStatement;
 
+/*do-while의 기본문법구조, do-while vs. while의 비교*/
+
 public class DoWhileControlStatement {
+	
 	public static void main(String[] args) {
 		
 		//#1. 반복회수가 0인 경우 do-while과 while 문 비교
@@ -44,5 +47,7 @@ public class DoWhileControlStatement {
 			System.out.print(a+" ");
 			a++;
 		} while(a<10); //실행회수 10번
+		
 	}
+	
 }	
