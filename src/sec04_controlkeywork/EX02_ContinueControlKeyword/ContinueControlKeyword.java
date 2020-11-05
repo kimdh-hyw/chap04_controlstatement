@@ -1,5 +1,7 @@
 package sec04_controlkeywork.EX02_ContinueControlKeyword;
 
+/*continue 제어키워드*/
+
 public class ContinueControlKeyword {
 	public static void main(String[] args) {		
 		//#1. 단일 루프에서의 continue
