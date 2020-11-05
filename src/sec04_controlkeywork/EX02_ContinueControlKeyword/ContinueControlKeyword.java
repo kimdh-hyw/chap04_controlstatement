@@ -1,8 +1,7 @@
 package sec04_controlkeywork.EX02_ContinueControlKeyword;
 
 public class ContinueControlKeyword {
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {		
 		//#1. 단일 루프에서의 continue
 		for(int i=0; i<10; i++) {
 			continue;
@@ -43,5 +42,4 @@ public class ContinueControlKeyword {
 			}
 		} //
 	}
-
 }
