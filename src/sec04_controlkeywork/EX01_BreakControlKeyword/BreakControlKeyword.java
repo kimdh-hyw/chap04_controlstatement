@@ -4,7 +4,7 @@ package sec04_controlkeywork.EX01_BreakControlKeyword;
 
 public class BreakControlKeyword {	
     public static void main(String[] args) {
-        //#1. 단일 loop break 탈출
+        //#1. 단일 loop break 탈출 
         for(int i=0; i<10; i++) {
             System.out.println(i);
             break;
