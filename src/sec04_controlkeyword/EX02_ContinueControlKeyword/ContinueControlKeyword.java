@@ -1,4 +1,4 @@
-package sec04_controlkeywork.EX02_ContinueControlKeyword;
+package sec04_controlkeyword.EX02_ContinueControlKeyword;
 
 /*continue 제어키워드*/
 

@@ -1,4 +1,4 @@
-package sec04_controlkeywork.EX01_BreakControlKeyword;
+package sec04_controlkeyword.EX01_BreakControlKeyword;
 
 /*break 제어 키워드*/
 
